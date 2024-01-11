@@ -1,0 +1,9 @@
+main: me.reccpe.main.SpawnPlugin
+name: SimpleSpawn
+author: Reccpe
+version: 1.0
+commands:
+    setspawn:
+       description: Set the spawnpoint to server 
+    spawn:
+       description: Teleports you to spawn point
